@@ -10,6 +10,8 @@ Core to the book is showing you how Azure SQL Database provides relational and p
 
 This repo contains all the code samples discussed, used and referenced in the "Practical Azure SQL Database for Modern Developers" book, and additional resource on the topics discussed in the book.
 
+NOTE: Samples will be made available during the next weeks.
+
 ## Additional Samples
 
 The book is just a starting point. We have prepared even more samples to show how you can create amazing solution with any language you like:
