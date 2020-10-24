@@ -20,6 +20,10 @@ The book is just a starting point. We have prepared even more samples to show ho
 - [Using Change Tracking API to sync data between Apps and the Cloud](https://github.com/Azure-Samples/azure-sql-db-sync-api-change-tracking)
 - [Creating API to securely access data using Azure SQL Row Level Security](https://github.com/Azure-Samples/azure-sql-db-secure-data-access-api)
 
+The above list is just an excerpt of the many samples you can find here:
+
+[Azure SQL Code Samples](https://docs.microsoft.com/en-us/samples/browse/?expanded=azure&products=azure-sql-database)
+
 ## Videos
 
 There are plenty of videos on Azure SQL to help everyone, from the beginner to the experienced developer:
