@@ -14,7 +14,11 @@ NOTE: Samples will be made available during the next weeks.
 
 ## Additional Samples
 
-The book is just a starting point. We have prepared even more samples to show how you can create amazing solution with any language you like:
+The book is just a starting point. You can find more specific samples also here:
+
+[Azure SQL DB Samples and Best Practices](https://github.com/yorek/azure-sql-db-samples)
+
+And, beside those, we have prepared even more samples to show how you can create amazing end-to-end solution with any language you like:
 
 - [Creating a REST API with .NET Core and Azure SQL](https://github.com/Azure-Samples/azure-sql-db-dotnet-rest-api)
 - [Creating a REST API with Python and Azure SQL](https://github.com/Azure-Samples/azure-sql-db-python-rest-api)
