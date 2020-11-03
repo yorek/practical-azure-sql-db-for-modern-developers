@@ -1,0 +1,9 @@
+TODO: JSON Samples 
+
+TODO: Graph Samples (ask Jovan for the flightlines sample data )
+
+TODO: Spatial Data Sample (add also vue.js sample?)
+
+TODO: XML (something very simple and basic)
+
+TODO: FullText Sample
