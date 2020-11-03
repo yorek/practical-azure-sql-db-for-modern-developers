@@ -1,0 +1,21 @@
+TODO: Create table simple sample
+
+TODO: Collations sample
+
+TODO: Computed columns
+
+TODO: Complex Type
+- XML
+- Spatial
+- CLR
+- JSON
+Just simple sample as more detail will be given in a next chapter
+
+TODO - Constraints
+PRIMARY KEY
+UNIQUE KEY
+FOREIGN KEY
+
+TODO - Security Sample
+
+TODO - Index usage sample
