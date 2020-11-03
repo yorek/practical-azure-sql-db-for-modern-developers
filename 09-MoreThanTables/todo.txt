@@ -1,0 +1,5 @@
+todo: columnstore sample
+
+todo: memory-optimized sample
+
+todo: temporal table sample
