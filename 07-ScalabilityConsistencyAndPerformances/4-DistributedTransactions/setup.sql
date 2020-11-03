@@ -1,0 +1,7 @@
+
+CREATE DATABASE db1
+
+CREATE DATABASE db2
+
+
+CREATE TABLE tab1 (id int, val1 varchar(255));
