@@ -1,0 +1,9 @@
+{
+    "retryStrategy": {
+        "MyFixedStrategy": {
+        "fastFirstRetry": "false",
+        "retryCount": 3,
+        "retryInterval": "00:00:10"
+        }
+    }
+}

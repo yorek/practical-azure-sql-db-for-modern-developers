@@ -1,0 +1,3 @@
+Flask
+pyodbc
+python-dotenv

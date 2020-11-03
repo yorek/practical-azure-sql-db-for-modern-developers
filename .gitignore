@@ -351,3 +351,6 @@ MigrationBackup/
 
 # Custom
 *.env
+venv/
+env/
+target/
