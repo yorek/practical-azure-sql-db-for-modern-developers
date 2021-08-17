@@ -355,3 +355,5 @@ venv/
 env/
 target/
 *.jar
+/03-ConnectingAndQueryingAzureSQL/DickApi
+/03-ConnectingAndQueryingAzureSQL/1-GettingStarted-CSharp/gettingstarted.sln
